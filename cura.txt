@@ -1,1 +1,1 @@
-;[:];http://servtest.coro8641.odns.fr/;[:];5898;[:];6898;[:];
+;[:];https://test.clldesign.fr/;[:];5898;[:];6898;[:];
